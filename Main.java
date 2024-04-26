@@ -127,6 +127,7 @@ public class Main {
         System.out.println("Nombre: Thomas Buitrago Uribe");
         System.out.println("Número de documento: 1000409680");
         System.out.println("Grupo: viernes 9-12 am");
+    }
 
         static void juanSebastianRave() {
             System.out.println("Nombre: Juan Sebastián Rave Martínez");
@@ -191,7 +192,7 @@ public class Main {
     }
 
 
-    }
+    
 
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
