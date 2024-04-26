@@ -170,7 +170,7 @@ public class Main {
         }
     
     static void ImprimirNombreMateo(){
-        System.out.println("Nombre: Mateo Andres Pineda Beltran")
+        System.out.println("Nombre: Mateo Andres Pineda Beltran");
     }
 
 
